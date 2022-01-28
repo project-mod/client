@@ -4,7 +4,7 @@ export default function EntryPoint() {
     return (
         <>
             <h1>💖 Hello World!</h1>
-            <p>Welcome to your Electron application.</p>
+            <p className="h-full">Welcome to your Electron application.</p>
         </>
     );
 }
